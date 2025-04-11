@@ -1,1 +1,1 @@
-# vim-neo
+# neovim-neo
